@@ -10,4 +10,4 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: Apart from my interest in tech, I am dedicated to personal development and fitness. I'm also on a journey to become fluent in English, Spanish, and French, adding a multilingual dimension to my skill set!
+- ⚡ Fun fact: Alongside my journey into web development, I maintain a strong commitment to personal fitness. I find that staying active not only keeps me healthy but also sharpens my focus, helping me tackle new coding challenges more effectively!
