@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jeff
 
-- 👀 I’m interested in web development, especially full-stack projects where I can utilize and expand my skills in Ruby on Rails, JavaScript, React, and Node.js. I’m passionate about building scalable and efficient applications that enhance user experiences.
+- 👀 I’m passionate about full-stack development, with a particular emphasis on back-end technologies. I enjoy working on projects where I can utilize and expand my skills in Ruby on Rails, Node.js, and other server-side technologies while also ensuring a seamless integration with front-end frameworks like React and JavaScript. My goal is to build scalable, efficient applications that provide a robust user experience.
 
 - 🌱 I recently graduated from a two-month intensive bootcamp in web development and am currently deepening my knowledge in advanced JavaScript techniques and exploring cloud services to broaden my development skills.
 
